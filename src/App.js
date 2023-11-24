@@ -135,8 +135,8 @@ function App() {
     <div className="flex flex-col w-screen h-screen">
       <div className="flex justify-between px-9 pt-6 items-center">
         <div className="flex gap-3">
-          <img src="logo.png" width={32} height={30} alt="logo" />
-          <h1 className="text-2xl hidden sm:block">MktClock</h1>
+          <img src="https://wildmoney.pro/uploads/monthly_2023_11/msapplication-square70x70logo.png" width={32} height={30} alt="logo" />
+          <h1 className="text-2xl hidden sm:block">Wild Clock</h1>
         </div>
         <div className="flex gap-9 items-center">
          
